@@ -1,0 +1,17 @@
+{
+  "name": "ordercode",
+  "version": "1.0.0",
+  "description": "Generate order code easily",
+  "main": "OrderCode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "order",
+    "code",
+    "number",
+    "generator"
+  ],
+  "author": "Revtm",
+  "license": "ISC"
+}
