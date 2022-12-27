@@ -13,5 +13,6 @@
     "generator"
   ],
   "author": "Revtm",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": "Revtm/ordercode",
 }
