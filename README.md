@@ -2,7 +2,8 @@
 ### Generate Order Code Easily
 
 ### How To:
-- Generate Order Code Default
+- Generate Default Order Code
+
 Example:
 ```
 import OrderCode from 'ordercode';
@@ -17,6 +18,7 @@ Output: Random string with length = 6 (default)
 ```
 
 - Generate Order Code with Custom Length
+
 Example, n = 8:
 ```
 import OrderCode from 'ordercode';
