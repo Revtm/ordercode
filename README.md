@@ -17,7 +17,7 @@ Output: Random string with length = 6 (default)
 ```
 
 - Generate Order Code with Custom Length
-Example:
+Example, n = 8:
 ```
 import OrderCode from 'ordercode';
 
@@ -25,7 +25,7 @@ let n = 8;
 let x = OrderCode.generate(n);
 console.log(x);
 ```
-Output: String with lenght = n [where n = 8]
+Output: String with length = n.
 
 ```
 "ZQ3R2621"
