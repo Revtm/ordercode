@@ -12,4 +12,4 @@ const randomNumeric = (orderCode) => {
 }
 
 
-export { randomAlpha, randomNumeric, alpha, numeric };
+module.exports = { randomAlpha, randomNumeric, alpha, numeric };

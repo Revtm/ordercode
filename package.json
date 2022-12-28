@@ -1,16 +1,22 @@
 {
   "name": "ordercode",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "Generate order code easily",
   "main": "OrderCode.js",
+  "exports": {
+    "import": "./OrderCode.js",
+    "require": "./OrderCode.cjs"
+  },
   "scripts": {
     "test": "echo \"no test specified\""
   },
+  "type": "module",
   "keywords": [
     "order",
     "code",
     "number",
-    "generator"
+    "generator",
+    "coupon"
   ],
   "author": "Revtm",
   "license": "MIT",
