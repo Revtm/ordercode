@@ -31,10 +31,12 @@ Output: String with lenght = n [where n = 8]
 "ZQ3R2621"
 ```
 
-- Generate Order Code with Custom Length (CommonJS)
+### How To (CommonJS):
+This CommonJS development approach will not be continued in the future version. Please use ES version above.
+
+- Generate Order Code with Custom Length
 ```
 generateDefaultOrderCode(specifyYourOrderCodeLength)
-//note: This CommonJS development approach will not be continued in the future version. Please use ES version above.
 ```
 Example:
 ```
